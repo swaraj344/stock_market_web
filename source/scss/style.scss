@@ -14,7 +14,8 @@ $white:#fff;
 $light:#EAEAEA;
 
 // Font Variables
-$primary_font:'Rubik', sans-serif;
+$primary_font:'Rubik',
+sans-serif;
 $secondary_font:sans-serif;
 $icon_font:"Font Awesome 5 Free";
 
@@ -31,3 +32,5 @@ $icon_font:"Font Awesome 5 Free";
 @import 'templates/navigation.scss';
 
 @import 'templates/main.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
